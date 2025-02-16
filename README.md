@@ -1,5 +1,5 @@
 # Global-population-forecast
-# Forecasting Global Demographics: Time Series Analysis of Population Growth
+## Forecasting Global Demographics: Time Series Analysis of Population Growth
 
 ## Overview
 This project focuses on the **time series analysis** of global population growth using statistical models. It examines historical population data and applies forecasting techniques to predict future trends.
